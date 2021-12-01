@@ -122,7 +122,7 @@ for i in range(0,4):
     clf.fit(X_train, y_train)
     print(clf.score(X_test,y_test))
 #     print(clf.score(X_OUT,Y_OUT))
-    #分类边界绘制
+
     def make_meshgrid(x, y, h=.02):
         """Create a mesh of points to plot in
 
@@ -210,7 +210,7 @@ for i in range(0,4):
     clf.fit(X_train, y_train)
     print(clf.score(X_test,y_test))
 #     print(clf.score(X_OUT,Y_OUT))
-    #分类边界绘制
+
     def make_meshgrid(x, y, h=.02):
         """Create a mesh of points to plot in
 
@@ -388,7 +388,7 @@ for i in range(0,4):
     clf.fit(X_train, y_train)
     print(clf.score(X_test,y_test))
 #     print(clf.score(X_OUT,Y_OUT))
-    #分类边界绘制
+
     def make_meshgrid(x, y, h=.02):
         """Create a mesh of points to plot in
 
@@ -477,7 +477,7 @@ for i in range(0,4):
     clf.fit(X_train, y_train)
     print(clf.score(X_test,y_test))
 #     print(clf.score(X_OUT,Y_OUT))
-    #分类边界绘制
+
     def make_meshgrid(x, y, h=.02):
         """Create a mesh of points to plot in
 
